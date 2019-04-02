@@ -1,0 +1,84 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Apples",
+      "img": "https://vignette.wikia.nocookie.net/goodfood/images/3/37/495878092.jpg/revision/latest?cb=20180620004040"
+    },
+    {
+      "id": 2,
+      "name": "Bananas",
+      "img": "https://media.npr.org/assets/img/2018/09/23/gettyimages-86304874_wide-050425b9a45d2e824f38425174d73cfa8f7390ba-s800-c85.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Coconuts",
+      "img": "https://www.pureblendsbrand.com/wp-content/uploads/2018/04/product_coconut-spread-coconut-v2.png"
+    },
+    {
+      "id": 4,
+      "name": "Drinks",
+      "img": "http://www.weaversliquors.com/index_htm_files/26795.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Eggo Waffles",
+      "img": "http://images.kglobalservices.com/www.leggomyeggo.com/en_us/product/product_4821893/kicproductimage-123235_buttermilkwaffles_3d_fpr.png"
+    },
+    {
+      "id": 6,
+      "name": "French Fries",
+      "img": "https://www.seriouseats.com/2018/04/20180309-french-fries-vicky-wasik-15-1500x1125.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Gatorade",
+      "img": "https://target.scene7.com/is/image/Target/GUEST_9e16edf4-7129-430d-9240-5e917353b64e?wid=488&hei=488&fmt=pjpeg"
+    },
+    {
+      "id": 8,
+      "name": "Hazelnuts",
+      "img": "https://res.cloudinary.com/gustiamo/image/upload/c_limit,f_auto,h_1400,q_auto:best,w_1400/HazelnutsSmall3_zunXI"
+    },
+    {
+      "id": 9,
+      "name": "Ice Cream",
+      "img": "https://truffle-assets.imgix.net/0575c5e8-kawaii-ice-cream-cones-pc.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Jello Shots",
+      "img": "https://cdn.liquor.com/wp-content/uploads/2016/07/12125901/Jello-Shots-720-square.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Kit Kats",
+      "img": "https://www.hersheys.com/is/image/content/dam/kitkat/en_us/images/home/home-kit-kat-bar-break.png?hei=640&wid=1140&fmt=png-alpha"
+    },
+    {
+      "id": 12,
+      "name": "Lemons",
+      "img": "https://i0.wp.com/www.healthline.com/hlcmsresource/images/AN_images/lemon-health-benefits-1296x728-feature.jpg?w=1155&h=1528"
+    },
+    {
+      "id": 13,
+      "name": "Melons",
+      "img": "https://media.self.com/photos/5b10229e443bb72bf9fe0750/4:3/w_728,c_limit/pick-a-perfect-mellon.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Noodles",
+      "img": "https://www.errenskitchen.com/wp-content/uploads/2014/04/quick-and-easy-chinese-noodle-soup3-1.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Orbit Gum",
+      "img": "https://afpstatic.blob.core.windows.net/image/original/1022029158.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Popcorn",
+      "img": "https://www.100daysofrealfood.com/wp-content/uploads/2011/06/popcorn1.jpg"
+    }
+  ]
+}
